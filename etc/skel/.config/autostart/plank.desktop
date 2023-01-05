@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=plank
+Hidden=false
+Name[en_US]=Plank
+Name=Plank
+Comment[en_US]=Stupidly simple.
+Comment=Stupidly simple.
+X-MATE-Autostart-Delay=2
